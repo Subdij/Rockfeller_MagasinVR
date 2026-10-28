@@ -1,0 +1,126 @@
+{
+  "quizTitle": "Validation des Compétences de Vente - Badge et Révision",
+  "passRateBadge": 5,
+  "badgeQuestions": [
+    {
+      "id": "badge_1",
+      "topic": "Règle des 4x20",
+      "questionText": "En quoi consiste la règle des 4 x 20 secondes dans la relation client ?",
+      "options": [
+        {
+          "text": "Se souvenir de présenter 20 produits en 20 secondes",
+          "isCorrect": false,
+          "rationale": "Cette règle concerne l'impact immédiat sur le client lors des premiers instants de l'interaction."
+        },
+        {
+          "text": "Porter une attention particulière aux 20 premières secondes, aux 20 premiers gestes, aux 20 premiers mots et aux 20 premiers centimètres du visage",
+          "isCorrect": true,
+          "rationale": "Les 4 x 20 décrivent les éléments cruciaux pour établir la première impression et la confiance."
+        },
+        {
+          "text": "Faire patienter le client pendant 20 secondes avant de l’accueillir",
+          "isCorrect": false,
+          "rationale": "Il est essentiel d'accueillir le client rapidement pour éviter la frustration."
+        }
+      ]
+    },
+    {
+      "id": "badge_2",
+      "topic": "Communication non verbale",
+      "questionText": "Quelle proportion de la communication passe par le non-verbal (gestes, posture, regard) ?",
+      "options": [
+        {
+          "text": "Environ 10 %",
+          "isCorrect": false,
+          "rationale": "Le verbal compte pour une faible partie de l'impact du message global perçu."
+        },
+        {
+          "text": "Environ 50 %",
+          "isCorrect": false,
+          "rationale": "Bien que significatif, c'est généralement le non-verbal et le para-verbal qui dominent."
+        },
+        {
+          "text": "Plus de 70 %",
+          "isCorrect": true,
+          "rationale": "La majorité de la communication efficace est transmise par le non-verbal et le para-verbal (ton, rythme, etc.)."
+        }
+      ]
+    },
+    {
+      "id": "badge_3",
+      "topic": "Modèle SONCAS",
+      "questionText": "Que signifient les lettres du modèle SONCAS, utilisé pour comprendre les motivations d’achat d’un client ?",
+      "options": [
+        {
+          "text": "Sécurité- Orgueil- Nouveauté-Confort-Argent-Sympathie",
+          "isCorrect": true,
+          "rationale": "Le SONCAS est un acronyme de 6 leviers de motivation pour décrypter les besoins profonds du client."
+        },
+        {
+          "text": "Solidité – Organisation – Négociation – Confiance- Achat – Service",
+          "isCorrect": false,
+          "rationale": "Ces termes décrivent plutôt des caractéristiques de l'entreprise ou du produit, non des motivations d'achat."
+        },
+        {
+          "text": "Séduction – Opportunité – Négociation – Créativité – Adaptation – Succès",
+          "isCorrect": false,
+          "rationale": "Ce sont des qualités ou des phases de la vente, mais pas les motivations psychologiques du SONCAS."
+        }
+      ]
+    },
+    {
+      "id": "badge_4",
+      "topic": "Phase d’argumentation",
+      "questionText": "Dans la phase d’argumentation, le vendeur doit :",
+      "options": [
+        {
+          "text": "Lire la fiche technique du produit",
+          "isCorrect": false,
+          "rationale": "La fiche technique est pour la préparation, l'argumentation est l'application du bénéfice client."
+        },
+        {
+          "text": "Présenter un maximum d’arguments",
+          "isCorrect": false,
+          "rationale": "Ceci risque de noyer le client et de lui faire perdre le fil des bénéfices essentiels."
+        },
+        {
+          "text": "Adapter ses arguments aux besoins révélés par le client",
+          "isCorrect": true,
+          "rationale": "C'est le principe de l'argumentation (méthode CAP/CAB) : répondre aux besoins identifiés en découverte."
+        },
+        {
+          "text": "Demander directement l’achat",
+          "isCorrect": false,
+          "rationale": "Cette action est prématurée ; elle appartient à la phase de conclusion."
+        }
+      ]
+    },
+    {
+      "id": "badge_5",
+      "topic": "L’écoute active",
+      "questionText": "L’écoute active dans un entretien de vente consiste principalement à :",
+      "options": [
+        {
+          "text": "Écouter sans interrompre mais sans poser de questions",
+          "isCorrect": false,
+          "rationale": "L'écoute active exige des interventions pour valider et creuser la compréhension des besoins."
+        },
+        {
+          "text": "Reformuler, questionner et montrer au client que ses besoins sont compris",
+          "isCorrect": true,
+          "rationale": "L'écoute active se manifeste par des actions (reformulation) qui prouvent la compréhension et l'engagement."
+        },
+        {
+          "text": "Prendre des notes uniquement pour mémoriser les propos",
+          "isCorrect": false,
+          "rationale": "L'écoute active va au-delà de la simple mémorisation ; elle implique l'interaction."
+        },
+        {
+          "text": "Laisser le client parler le plus longtemps possible sans intervenir",
+          "isCorrect": false,
+          "rationale": "Ceci correspond à une écoute passive, l'écoute active demande des relances et des validations."
+        }
+      ]
+    }
+  ]
+}

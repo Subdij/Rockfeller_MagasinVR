@@ -1,0 +1,44 @@
+{
+  "clientName": "Client Cafetière",
+  "phases": [
+    {
+      "phaseName": "Accroche",
+      "questionText": "Le client regarde les cafetières. Quelle est votre approche ?",
+      "options": [
+        { "text": "Puis-je vous aider ?", "isCorrect": false, "feedback": "Trop fermé." },
+        { "text": "En quoi puis-je vous aider ?", "isCorrect": true, "feedback": "Parfait, c'est une question ouverte." },
+        { "text": "Avez-vous besoin de renseignements ?", "isCorrect": false, "feedback": "Trop générique." }
+      ]
+    },
+    {
+      "phaseName": "Découverte",
+      "questionText": "Quels sujets voulez-vous creuser pour cerner le besoin ?",
+      "options": [
+        { "text": "Interroger sur la Marque", "isCorrect": true, "feedback": "J'ai confiance en Philips, mais je reste ouvert." },
+        { "text": "Interroger sur la Capacité", "isCorrect": true, "feedback": "Je suis seul à boire du café, une petite me suffit." },
+        { "text": "Interroger sur la Programmation", "isCorrect": true, "feedback": "J'aimerais que le café soit prêt à mon réveil." },
+        { "text": "Interroger sur le Budget", "isCorrect": true, "feedback": "Moins de 100€ idéalement." }
+      ]
+    },
+    {
+      "phaseName": "Objection 1",
+      "questionText": "Client : 'Je ne suis pas sûr d'avoir besoin de toutes ces fonctions...'",
+      "options": [
+        { "text": "Vous n'êtes pas obligé de les utiliser.", "isCorrect": false, "feedback": "Pas très vendeur..." },
+        { "text": "Si vous ne voulez pas de programmation, changez de modèle.", "isCorrect": false, "feedback": "Un peu brusque." },
+        { "text": "C'est standard maintenant.", "isCorrect": false, "feedback": "Manque d'empathie." },
+        { "text": "C'est pour le confort. Ça vous ferait gagner du temps le matin ?", "isCorrect": true, "feedback": "Excellent argument (Gain de temps)." }
+      ]
+    },
+    {
+      "phaseName": "Objection 2",
+      "questionText": "Client : 'Je la trouve un peu chère (79,99€).'",
+      "options": [
+        { "text": "Elle a un bon look !", "isCorrect": false, "feedback": "Argument faible." },
+        { "text": "Je comprends. Vous aviez quel budget en tête ?", "isCorrect": true, "feedback": "Bonne méthode CRAC (Comprendre)." },
+        { "text": "Allez voir les moins chères alors.", "isCorrect": false, "feedback": "Agressif." },
+        { "text": "C'est du Philips, c'est comme ça.", "isCorrect": false, "feedback": "Arrogant." }
+      ]
+    }
+  ]
+}
